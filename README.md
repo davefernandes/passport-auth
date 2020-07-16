@@ -38,7 +38,7 @@ The user can also Unlink any accounts. The ID, will be saved for reference/re-co
 
 ### Environment Variables
 
-The project needs these 2 variables to be set in .env
+The project needs these variables to be set in .env
 
 1. PORT- The listening port for NodeJS Server(default:3000)
 
@@ -78,7 +78,9 @@ The project needs these 2 variables to be set in .env
 
 Would recommend to use an https URL, especially if using localhost to test Facebook Login.
 You will need to generate a self-signed certificate for your domain.
+
 If you need help to create the certificate, follow this link ([https://flaviocopes.com/express-https-self-signed-certificate/](https://flaviocopes.com/express-https-self-signed-certificate/))
+
 For a Windows Client, you can use openssl from GIT to generate the certificate.
 Example command for Windows, go to your project folder and type as below
 
