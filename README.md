@@ -2,6 +2,8 @@
 
 ## Authentication Strategies using nodeJS and Passport
 
+> Implementing multiple Social Logins on one website
+
 ### Different Tools/Packages used are
 
 1. Bootstrap for the front-end templating
